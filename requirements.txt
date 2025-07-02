@@ -1,0 +1,5 @@
+pandas
+matplotlib
+numpy==1.24.4
+feets
+scikit-learn
